@@ -1,5 +1,4 @@
 #include <iostream>
-#
 
 /*
 	Project Euler Problem 02
